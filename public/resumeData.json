@@ -1,7 +1,7 @@
 {
   "main": {
     "name":"Julien Lamalle",
-    "occupation":"Développeur web Full-Stack Junior",
+    "occupation":"développeur web Full-Stack Junior",
     "description":"Passionné par la programmation, je suis issu d'un bootcamp de 6 mois durant lequel j'ai appris le développement web Front-end & Back-end",
     "image":"julien.jpg",
     "bio":"Développeur Full-Stack, je crée, transforme et maintiens vos applications web responsives, ainsi que vos API's Rails et applications web progressives.",
