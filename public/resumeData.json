@@ -1,10 +1,12 @@
 {
   "main": {
     "name":"Julien Lamalle",
-    "occupation":"développeur web Full-Stack Junior",
-    "description":"Passionné par la programmation, je suis issu d'un bootcamp de 6 mois durant lequel j'ai appris le développement web Front-end & Back-end",
+    "occupation1": "crée",
+    "occupation2": "transforme",
+    "occupation3": "maintiens",
+    "description":"Développeur Full-Stack Rails - ReactJS",
     "image":"julien.jpg",
-    "bio":"Développeur Full-Stack, je crée, transforme et maintiens vos applications web responsives, ainsi que vos API's Rails et applications web progressives.",
+    "bio":"Passionné par la programmation, je suis issu d'un bootcamp de 6 mois durant lequel j'ai appris le développement web Front-end & Back-end",
     "email": "julienlamalle63100@gmail.com",
     "phone": "+ 33 7 58 74 25 61",
     "address":{
