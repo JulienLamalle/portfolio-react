@@ -59,6 +59,12 @@
         "description":"Plateforme de soutiens aux porteurs de projets Open-Source offrant la possibilité de mettre en avant la charge de travail que représente ce type de projets, et proposant aux utilisateurs de faire des dons afin d'aider les créateurs et mainteneurs"
       },
       {
+        "company":"La main verte",
+        "title":"Développeur Full-Stack",
+        "years":"Décembre 2020",
+        "description":"Réalisation d'une API en Ruby on Rails et exploitation de celle-ci au travers une application React.Js, Plateforme permettant la mise en relation et le partage entre professionnels et amateurs de jardinage."
+      },
+      {
         "company":"Kittens Project",
         "title":"Développeur Full-Stack",
         "years":"Août 2020",
@@ -109,6 +115,12 @@
         "category":"Plateforme de soutiens aux projets open-source",
         "image":"Goopensource.jpg",
         "url":"https://go-open-source.herokuapp.com/"
+      },
+      {
+        "title":"La main verte",
+        "category":"Application web React.Js exploitant les données de notre API en rails",
+        "image":"lamainverte.png",
+        "url":"https://la-main-verte.herokuapp.com/news_feed"
       },
       {
         "title":"Kittens Project",
