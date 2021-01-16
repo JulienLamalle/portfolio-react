@@ -59,6 +59,12 @@
         "description":"Plateforme de soutiens aux porteurs de projets Open-Source offrant la possibilité de mettre en avant la charge de travail que représente ce type de projets, et proposant aux utilisateurs de faire des dons afin d'aider les créateurs et mainteneurs"
       },
       {
+        "company":"JS Dev Agency",
+        "title":"Développeur",
+        "years":"Janvier 2021",
+        "description":"Site vitrine pour agence de développement sur mesure"
+      },
+      {
         "company":"La main verte",
         "title":"Développeur Full-Stack",
         "years":"Décembre 2020",
@@ -93,12 +99,16 @@
         "level":"80%"
       },
       {
-        "name":"Rails",
+        "name":"Ruby On Rails",
         "level":"85%"
       },
       {
         "name":"Git",
         "level":"80%"
+      },
+      {
+        "name":"Wordpress",
+        "level":"90%"
       }
     ]
   },
@@ -115,6 +125,12 @@
         "category":"Plateforme de soutiens aux projets open-source",
         "image":"Goopensource.jpg",
         "url":"https://go-open-source.herokuapp.com/"
+      },
+      {
+        "title":"JS Dev Agency",
+        "category":"Site pour agence de développement sur mesure",
+        "image":"jsdevagency_.jpg",
+        "url":"https://www.js-dev-agency.com/"
       },
       {
         "title":"La main verte",
